@@ -1,6 +1,10 @@
 
 #Pure CSS Tabs
 
+##What is this?
+This is an improvement over CodePen's full css tab container.
+No javascript used at all.
+
 [Original demo](http://codepen.io/anon/pen/usHoF)
 
 ##What changed here?
